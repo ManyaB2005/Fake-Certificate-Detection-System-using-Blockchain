@@ -1,0 +1,13 @@
+# Node Modules (Heavy installation files)
+node_modules/
+2-backend/node_modules/
+3-frontend/node_modules/
+
+# Security & Cryptographic Keys (NEVER UPLOAD THESE)
+.env
+2-backend/private.pem
+3-frontend/.env
+
+# React Build Files
+3-frontend/build/
+.DS_Store
